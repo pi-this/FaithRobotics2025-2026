@@ -1,2 +1,2 @@
-# 2025-2026-Faith-Robotics
+# FaithRobotics2025-2026
 Project Files
